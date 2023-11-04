@@ -1,16 +1,21 @@
-### Hi there 👋
+ ## 👋Seja Muito Bem-Vindo ao Meu Perfil! Bom Ter Você Aqui! 👋
+ 🚀Em Busca do FullStack!🚀
+ 
+ 💻Aprendiz de programação!💻
 
-<!--
-**DanielHermesGT/DanielHermesGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/DanielHermesGT">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielHermesGT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHermesGT&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+⚡Linguagens Que Mais Uso⚡
+  
+  <div style="display: inline_block">
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚Linguagens Que Estou Aprendendo📚
+
+## 💬"O Que Não Sei, Terei Honra Em Aprender!💬
+📫 📫
+

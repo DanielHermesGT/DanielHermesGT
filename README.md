@@ -1,4 +1,3 @@
- # 👋Seja Muito Bem-Vindo ao Meu Perfil! Bom Ter Você Aqui! 👋
  # 🚀Em Busca do FullStack!🚀
  
  ## 💻Aprendiz de programação!💻

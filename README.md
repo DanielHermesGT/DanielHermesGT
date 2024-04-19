@@ -2,14 +2,6 @@
  
  ## 💻Aprendiz de programação!💻
 
-<div>
-<a href="https://github.com/DanielHermesGT">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHermesGT&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-
-
 ## ⚡📚Linguagens Que Estou Desenvolvendo📚⚡
  <div style="display: inline_block">
 

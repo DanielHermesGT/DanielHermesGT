@@ -40,5 +40,6 @@
  </div>
 
 ## 💬"O Que Não Sei, Terei Honra Em Aprender!💬
+### Não possuo muitos repositórios publicos...mas estou trabalhando nisso!"
 
 

@@ -1,8 +1,6 @@
- # Em Busca do FullStack!🚀
- 
- ## Aprendiz de programação!💻
 
-## Linguagens Que Estou Desenvolvendo📚
+
+# Linguagens Que Estou Desenvolvendo📚
  <div style="display: inline_block">
 
 
